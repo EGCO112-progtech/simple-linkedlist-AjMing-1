@@ -14,4 +14,5 @@ struct node
     struct node *next;
 };
 
+
 #endif /* node_h */
